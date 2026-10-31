@@ -1,0 +1,8 @@
+in/
+out/
+*.so
+*.dex
+*.jar
+*.apk
+model_file
+panorama_mgb
