@@ -7,6 +7,8 @@ on top of the HyperOS vendor.
 > Work in progress. Full guides in Spanish and English will be added once the
 > real HAL is finished.
 
+**Manual guide (MT Manager):** [English](docs/MT_MANAGER_GUIDE.md) · [Español](docs/GUIA_MT_MANAGER.md)
+
 ## Status
 
 | Part | State |
